@@ -1,1 +1,0 @@
-approach2(arr,sum)
